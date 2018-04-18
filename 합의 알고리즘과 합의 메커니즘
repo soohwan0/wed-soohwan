@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+
+<head>
+<title>존나 어려움 많이보셈</title>
+<meta charest="utf-8">
+</head>
+
+<body>
+<p style="margin-top100px;">
+<strong><u><h3>합의 알고리즘이란??</h3></u></strong></p>
+<img src="p1.jpg" width="20%">
+<br>합의 알고리즘 즉 어떤 방식(pow, pos, poa, poi, poc)으로 블록을 맞추는 것
+합의 알고리즘이란 쉽게 말해 블록체인 상에서 의사결정 방식을 말한다. 그리고 그 의사결정의 가장 중요한 것은 바로 블록체인 위에서 어떤 블록을 '진짜'로 판단할 것이냐이다.
+<br><strong><U>예를 들어,</U></strong> 어떤 채굴자들이 블록을 열심히 만들고 있다고 생각해보자. 만약 A, B가 동시에 블록을 생성했다면, 어느 블록이 진짜 블록이라고 부를 수 있을까?
+만약 중앙집권적인 기관이었다면 전부 통제가 가능하기 때문에 두 개의 블록이 생성되지 않았을 뿐만 아니라 설사 생성된다 하더라도, 블록체인을 운영하는 사람이 어떤 블록이 진짜인지 선택만 하면 된다.
+하지만 탈중앙화된 블록체인에서는 해당 의사결정을 해 줄 사람이 없기 때문에 이를 결정할 어떤 과정이 필요한 것이고, 때문에 등장한 것이 바로 합의 알고리즘이다.
+
+<p style="margin-top50px;">
+합의 알고리즘 사이트</p>
+<a href="https://blog.naver.com/zeigal/221189671484" target="_blank">https://blog.naver.com/zeigal/221189671484</a><br>
+
+<p style="margin-top50px;">
+합의 메커니즘 설명 유튜브</p>
+<a href="https://www.youtube.com/watch?v=MGXRy7CQAPE" target="_blank">https://www.youtube.com/watch?v=MGXRy7CQAPE</a>
+</body>
+</html>
